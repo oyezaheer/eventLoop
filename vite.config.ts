@@ -15,5 +15,5 @@ export default defineConfig({
 		},
 	},
 	plugins: [react()],
-	base: '/event-loop-explorer/',
+	base: '/',
 });
